@@ -1,0 +1,3 @@
+all right ??
+
+if ok write 1 otherwise 0
